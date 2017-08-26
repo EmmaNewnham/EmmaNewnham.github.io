@@ -1,0 +1,9 @@
+h1 {
+	font-family: Segoe UI;
+	color: red;
+}
+
+p.other {
+	color:green;
+	margin: 20px;
+}
